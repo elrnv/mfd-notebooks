@@ -1,0 +1,65 @@
+<svg width="220" height="220" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_14">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_15">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_19">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_17">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_21">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_23">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_25">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_27">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_24">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_20">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_22">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_26">
+   <path stroke-width="10" stroke="#bf0000" fill="#bf0000" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <polyline id="svg_14" marker-mid="url(#se_marker_mid_svg_14)" fill="none" stroke-width="5" stroke="#bf0000" points="10,110 60,110 110,110 "/>
+  <polyline id="svg_15" marker-mid="url(#se_marker_mid_svg_15)" fill="none" stroke-width="5" stroke="#bf0000" points="110,110 160,110 210,110 "/>
+  <polyline marker-mid="url(#se_marker_mid_svg_17)" id="svg_17" fill="none" stroke-width="5" stroke="#bf0000" points="110,10 110,60 110,110 "/>
+  <polyline marker-mid="url(#se_marker_mid_svg_19)" id="svg_19" fill="none" stroke-width="5" stroke="#bf0000" points="110,110 110,160 110,210 "/>
+  <polyline marker-mid="url(#se_marker_mid_svg_20)" id="svg_20" fill="none" stroke-width="5" stroke="#bf0000" points="210,10 210,60 210,110 "/>
+  <polyline id="svg_21" marker-mid="url(#se_marker_mid_svg_21)" fill="none" stroke-width="5" stroke="#bf0000" points="210,110 210,160 210,210 "/>
+  <polyline marker-mid="url(#se_marker_mid_svg_22)" id="svg_22" fill="none" stroke-width="5" stroke="#bf0000" points="10,10 10,60 10,110 "/>
+  <polyline id="svg_23" marker-mid="url(#se_marker_mid_svg_23)" fill="none" stroke-width="5" stroke="#bf0000" points="10,110 10,160 10,210 "/>
+  <polyline id="svg_24" marker-mid="url(#se_marker_mid_svg_24)" fill="none" stroke-width="5" stroke="#bf0000" points="10,10 60,10 110,10 "/>
+  <polyline id="svg_25" marker-mid="url(#se_marker_mid_svg_25)" fill="none" stroke-width="5" stroke="#bf0000" points="110,10 160,10 210,10 "/>
+  <polyline id="svg_26" marker-mid="url(#se_marker_mid_svg_26)" fill="none" stroke-width="5" stroke="#bf0000" points="10,210 60,210 110,210 "/>
+  <polyline id="svg_27" marker-mid="url(#se_marker_mid_svg_27)" fill="none" stroke-width="5" stroke="#bf0000" points="110,210 160,210 210,210 "/>
+  <circle id="svg_28" r="10.124228" cy="110" cx="110" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_29" r="10.124228" cy="110" cx="210" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_30" r="10.124228" cy="10" cx="210" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_31" r="10.124228" cy="10" cx="110" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_32" r="10.124228" cy="10" cx="10" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_33" r="10.124228" cy="110" cx="10" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_34" r="10.124228" cy="210" cx="10" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_35" r="10.124228" cy="210" cx="110" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+  <circle id="svg_36" r="10.124228" cy="210" cx="210" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" fill="#0000bf"/>
+ </g>
+</svg>
